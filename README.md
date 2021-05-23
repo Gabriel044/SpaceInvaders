@@ -1,2 +1,2 @@
 # SpaceInvaders
-Collaboration proyect
+Collaboration project
