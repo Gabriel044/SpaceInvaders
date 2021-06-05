@@ -1,4 +1,4 @@
-module github.com/Gabriel044/Gabriel044
+module github.com/Gabriel044/SpaceInvaders
 
 go 1.16
 
